@@ -1,0 +1,32 @@
+_repo: Presidential-Candidates-of-Prominent-Candidates-for-the-Presidency-in-1860_35400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartlett, D. W. (David W.)
+    aliases:
+    - Bartlett, David Vandewater Golden
+    - Bartlett, David W.
+    birthdate: 1828
+    deathdate: 1912
+    gutenberg_agent_id: '7039'
+    url: http://www.gutenberg.org/2009/agents/7039
+description: ''
+gutenberg_issued: '2011-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35400'
+  lccn: 04018818
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Statesmen -- United States'
+title: "Presidential Candidates:\r\nContaining Sketches, Biographical, Personal and\
+  \ Political, of Prominent Candidates for the Presidency in 1860"
+url: http://www.gutenberg.org/ebooks/35400
